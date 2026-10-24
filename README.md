@@ -52,26 +52,35 @@ com.cops.tutorvirtual/
 │   └── HitoViewModel.kt
 │
 └── MainActivity.kt        # Punto de entrada y configuración de NavHost
+```
 
 ---
 
 ## ⚙️ Configuración e Instalación
-Requisitos Previos
- * Android Studio: Jellyfish / Koala o superior.
- * JDK: versión 11.
- * SDK Mínimo: API 24 (Android 7.0 Nougat).
- * SDK Objetivo: API 34.
 
-## Pasos para ejecutar
-1. Clonar el repositorio:
+### Requisitos Previos
 
-git clone [https://github.com/axbrogi23/Movil-Cops.git](https://github.com/axbrogi23/Movil-Cops.git)
+* **Android Studio:** Jellyfish / Koala o superior.
+* **JDK:** Versión 11.
+* **SDK Mínimo:** API 24 (Android 7.0 Nougat).
+* **SDK Objetivo:** API 34.
 
-2. Abrir el proyecto en Android Studio.
-3. Sincronizar Gradle mediante el botón Sync Project with Gradle Files.
-4. Ejecutar Build > Rebuild Project para generar la compilación de Room (kapt).
-5. Ejecutar la aplicación en un emulador o dispositivo físico.
+### Pasos para Ejecutar
 
-👥 Integrantes del Equipo
-* Repositorio: Movil-Cops
-* Desarrollo: Axel Brogi, Rodrigo Godoy
+1. **Clonar el repositorio:**
+   
+   ```bash
+   git clone [https://github.com/axbrogi23/Movil-Cops.git](https://github.com/axbrogi23/Movil-Cops.git)
+   ```
+   
+3. **Abrir el proyecto** en Android Studio.
+4. **Sincronizar Gradle** mediante el botón **Sync Project with Gradle Files**.
+5. **Reconstruir el proyecto:** Ir a **Build > Rebuild Project** para generar la compilación de Room (`kapt`).
+6. **Ejecutar la aplicación** en un emulador o dispositivo físico.
+
+---
+
+## 👥 Integrantes del Equipo
+
+* **Repositorio:** [Movil-Cops](https://github.com/axbrogi23/Movil-Cops)
+* **Desarrollo:** Axel Brogi, Rodrigo Godoy
