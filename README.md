@@ -53,6 +53,8 @@ com.cops.tutorvirtual/
 │
 └── MainActivity.kt        # Punto de entrada y configuración de NavHost
 
+text```
+
 ## ⚙️ Configuración e Instalación
 Requisitos Previos
  * Android Studio: Jellyfish / Koala o superior.
