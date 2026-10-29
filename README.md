@@ -70,7 +70,7 @@ com.cops.tutorvirtual/
 1. **Clonar el repositorio:**
    
    ```bash
-   git clone [https://github.com/axbrogi23/Movil-Cops.git](https://github.com/axbrogi23/Movil-Cops.git)
+   git clone [https://github.com/axbrogi23/Movil-Cops.git]
    ```
    
 3. **Abrir el proyecto** en Android Studio.
